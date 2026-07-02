@@ -34,7 +34,7 @@ Blue · Green · Red · Yellow · White
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/air-canvas.git
+   git clone https://github.com/Sammyyy08/air-canvas.git
    cd air-canvas
    ```
 
@@ -73,4 +73,4 @@ Blue · Green · Red · Yellow · White
 ---
 
 ## 📬 Connect
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/Sammyyy08)
+[LinkedIn](https://linkedin.com/in/swayam-chaudhari-714a892a2) · [GitHub](https://github.com/Sammyyy08)
